@@ -17,7 +17,8 @@ github: https://github.co.jp/
 #で見出しが作れ、その数で大きさが変わる
 
 ### git command
-・コミット
+・リモートリポジトリにプッシュ
 1. git add ファイル名（.ですべて選択）
 2. git status（コミットされるファイルを確認）
 3. git commit -m "コミットメッセージ"（コミット時に変更内容を追記する）
+4. git push origin ブランチ名
