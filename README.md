@@ -23,6 +23,8 @@ github: https://github.co.jp/
 3. git commit -m "コミットメッセージ"（コミット時に変更内容を追記する）
 4. git push origin ブランチ名
 
+コミットメセージの編集は「git commit --amend -m メッセージ」
+
 ### 小ワザ
 リポジトリ名とユーザー名と同じにすると、ホーム画面をカスタマイズできる（画像やgifなどを追加など）
 
